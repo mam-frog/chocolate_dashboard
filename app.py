@@ -16,9 +16,9 @@ from math import pi
 st.title("chocolate_dashbord")
 
 #  データを読み込み
-df_choco_eval = pd.read_csv("./data/1.after_data_prep/20220813/choco_eval_prep_20220813.csv",encoding="utf_8")
-df_choco_store = pd.read_csv("./data/1.after_data_prep/20220813/choco_store_prep_20220813.csv",encoding="utf_8")
-df_choco_shop_address = pd.read_csv("./data/1.after_data_prep/try1_20220605091938/shop_info_osaka_after_prep.csv",encoding='utf_8')
+df_choco_eval = pd.read_csv("./data/choco_eval_prep_20220813.csv",encoding="utf_8")
+df_choco_store = pd.read_csv("./data/choco_store_prep_20220813.csv",encoding="utf_8")
+df_choco_shop_address = pd.read_csv("./data/shop_info_osaka_after_prep.csv",encoding='utf_8')
 
 df_choco_shop_address = df_choco_shop_address.rename(columns= {"緯度":"lon","経度":"lat","店名":"store_name","ジャンル":"genre","営業時間":"store_time"})
 
