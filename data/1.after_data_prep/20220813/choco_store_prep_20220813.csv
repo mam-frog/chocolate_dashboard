@@ -1,0 +1,9 @@
+store_id,store_name,url,created_time,quality,ingredients,price,performance,package,country,type
+1,Venchi,https://venchi.co.jp/,"June 4, 2022 7:16 AM",4.0,3.0,5.0,3.0,3.0,Italy,high_grade
+2,bubo,https://bubojapan.com/,"June 4, 2022 7:18 AM",4.0,4.0,4.0,5.0,5.0,Spain,specialty
+3,DEPLA POL CHOCOLATIER,https://deplachocolatie.shop-pro.jp/,"June 5, 2022 6:28 AM",5.0,4.0,4.0,5.0,5.0,Belgium,specialty
+4,サンバード オーガニック,https://www.summerbird.jp/,"June 19, 2022 8:37 AM",5.0,5.0,5.0,2.0,3.0,Denmark,specialty
+5,ジャン・シャルル・ロシュー,https://jcrochoux.jp/,"June 19, 2022 8:52 AM",4.0,4.0,4.0,5.0,5.0,France,specialty
+6,リンツ,https://www.lindt.jp/f/onlineshop?gclid=CjwKCAjwh-CVBhB8EiwAjFEPGYGcs4QQMDAZvgdbhNy1UK3QGnMPmLYFPiyEQzKDq2e694MosTzKhhoC8b4QAvD_BwE,"July 2, 2022 8:15 AM",4.0,4.0,5.0,3.0,3.0,Switzerland,high_grade
+7,プレスキル・ショコラトリー,https://presquile.co.jp/,"July 3, 2022 6:15 AM",4.0,4.0,3.0,5.0,4.0,Japan,specialty
+8,ドロステ,,"August 4, 2022 6:13 AM",,,,,,Netherlands,
